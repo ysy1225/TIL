@@ -54,3 +54,13 @@
 - 일반 메서드도 가질 수 있다.
 - 일반 클래스와 마찬가지로 생성자도 있다.
 
+### StringBuffer 와 StringBuilder
+
+- 공통점 : String 클래스의 단점을 보완한 클래스로 데이터(문자열)가 변경되면 메모리에서 기존 객체를 재활용한다.
+
+- 차이점 : 속도는 StringBuilder가 조금 더 빠르고, 데이터의 안전성은 StringBuffer가 조금 더 좋다.
+
+- StringBuffer와 StrinfBuilder는 조금 더 공부하기
+
+
+
