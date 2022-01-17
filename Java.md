@@ -62,3 +62,13 @@
 
 - StringBuffer와 StrinfBuilder는 조금 더 공부하기
 
+### Collections
+
+- List : 인터페이스로 이를 구현한 클래스는 인덱스를 이용해서 데이터를 관리한다.
+
+- Map : 인터페이스로 이를 구현한 클래스는 Key를 이용해서 데이터를 관리한다.
+
+#### 네트워크와 관련된 것들은 예외처리를 해줘야함.
+
+- 클라이언트와 서버는 InputStream / OutputStream을 이용해서 양방향 통신을 할 수 있다.
+
